@@ -1,1 +1,2 @@
-# ruby2.4.1
+參考資料
+https://5xruby.tw/posts/rails-docker-image/
